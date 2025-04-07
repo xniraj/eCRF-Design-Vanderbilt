@@ -41,7 +41,7 @@ Welcome! This project presents a fully structured and validated **electronic Cas
 - **Institution**: Vanderbilt University  
 - **Platform**: Coursera  
 - **Completion Certificate**:  
-  ![Certificate Preview](https://user-images.githubusercontent.com/your-cert-image-if-uploaded-online)
+  ![Certificate Preview](https://user-images.githubusercontent.com/Certificate.jpg)
   <br>
   📄 Or download/view the full certificate here:  
   [`Data Management for Clinical Research.pdf`](./Data%20Management%20for%20Clinical%20Research.pdf)
