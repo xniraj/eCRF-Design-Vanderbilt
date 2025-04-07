@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 📄 Case Report Form Design – Clinical Research Data Management
 
 ![Course Badge](https://img.shields.io/badge/Coursera-Vanderbilt%20University-blueviolet?style=flat&logo=coursera)
