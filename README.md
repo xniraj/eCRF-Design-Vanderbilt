@@ -25,7 +25,7 @@ Welcome! This project presents a fully structured and validated **electronic Cas
 
 ## 🧠 Key Features of the eCRF
 
-✔️ Built for REDCap  
+✔️ Built on REDCap  
 ✔️ Follows **21 CFR Part 11** compliance  
 ✔️ Designed for **Phase 3 Clinical Trial**  
 ✔️ Includes:
