@@ -40,13 +40,15 @@ Welcome! This project presents a fully structured and validated **electronic Cas
 - **Course**: *Data Management for Clinical Research*  
 - **Institution**: Vanderbilt University  
 - **Platform**: Coursera  
-- **Completion Certificate**:  
-  ![Certificate Preview](https://user-images.githubusercontent.com/Certificate.jpg)
-  <br>
-  📄 Or download/view the full certificate here:  
-  [`Data Management for Clinical Research.pdf`](./Data%20Management%20for%20Clinical%20Research.pdf)
+- **Completion Certificate**:
+## 📜 Certificate of Completion
 
-🔗 [View Verified Certificate on Coursera](https://www.coursera.org/account/accomplishments/verify/VDWF56MKTRTZ)
+This project was completed as part of the **Data Management for Clinical Research** course by **Vanderbilt University** on Coursera.
+
+📅 Date: *December 5, 2024*  
+🔗 [View Verified Certificate](https://coursera.org/verify/VDWF56MKTRTZ)
+
+![Certificate Preview](./Certificate.jpg)
 
 ---
 
